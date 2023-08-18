@@ -1,0 +1,2 @@
+## Misc.
+- `INT` Scene: 0x3222D0, 0x1DC
