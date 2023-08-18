@@ -4,7 +4,7 @@ Available while viewing the level info:
 
 | Type | Description | Offsets | Notes |
 | :--: | ----------- | ------- | ----- |
-| `INT` |Level ID | 0x3222D0, 0x2A0 | Won't work on official levels or daily/weekly levels |
+| `INT` | Level ID | 0x3222D0, 0x2A0 | Won't work on official levels or daily/weekly levels |
 
 Available while playing:
 

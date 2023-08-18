@@ -2,7 +2,7 @@
 
 | Type | Description | Offsets | Notes |
 | :--: | ----------- | ------- | ----- |
-| `FLOAT` | Wave pulse size: | 0x2E63A0 |
+| `FLOAT` | Wave pulse size | 0x2E63A0 |
 
 Available while playing a level:
 
