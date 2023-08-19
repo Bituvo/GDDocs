@@ -16,3 +16,4 @@ Available while playing a level:
 | `FLOAT` | Speed | 0x3222D0, 0x164, 0x224, 0x648 | See [speed enumeration](/enumerations/speed.md)
 | `FLOAT` | Hitbox size | 0x3222D0, 0x164, 0x224, 0x644 | Anything other than 1 enables mini mode |
 | `BOOL` | Practice mode | 0x3222D0, 0x164, 0x495 | Can be set to change modes but won't toggle button overlay |
+| `BOOL` | Dashing | 0x3222D0, 0x164, 0x224, 0x614 |
