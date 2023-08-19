@@ -1,0 +1,8 @@
+# Example of reading the currently played level name
+
+def get_level_name():
+	if read_int(0x3222D0, 0x164, 0x22C, 0x114, 0x10C) >= 16:
+		# Level name is long, becomes a pointer
+		return read_string(0x3222D0, 0x164, 0x22C, 0x114, 0xFC, 0x0)
+
+	return read_string(0x3222D0, 0x164, 0x22C, 0x114, 0xFC)

@@ -10,6 +10,7 @@ Available while playing:
 
 | Type | Description | Offsets | Notes |
 | :--: | ----------- | ------- | ----- |
+| `STR` | Level name | 0x3222D0, 0x164, 0x22C, 0x114, 0xFC | See [get level name.py](/scripts/get%20level%20name.py) |
 | `STR` | Creator | 0x3222D0, 0x164, 0x22C, 0x114, 0x144 |
 | `INT` | Level ID | 0x3222D0, 0x164, 0x22C, 0x114, 0xF8 |
 | `INT` | Clicks | 0x3222D0, 0x164, 0x2B4 |
