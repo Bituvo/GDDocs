@@ -33,3 +33,6 @@ Available while playing:
 | `INT` | Demon difficulty | 0x3222D0, 0x164, 0x22C, 0x114, 0x2A0 | See [get level difficulty.py](/scripts/get%20level%20difficulty.py) |
 | `INT` | Level type | 0x3222D0, 0x164, 0x22C, 0x114, 0x364 | See [level type enumeration](/enumerations/level%20type.md) |
 | `INT` | Song ID | 0x3222D0, 0x164, 0x488, 0x1C4 | Doesn't work with official songs |
+| `STR` | Time since upload | 0x3222D0, 0x164, 0x22C, 0x114, 0x174 | Usually only correct with more recent levels |
+| `STR` | Time since last update | 0x3222D0, 0x164, 0x22C, 0x114, 0x18C | Usually only correct with more recent levels |
+| `BOOL` | Paused | 0x3222D0, 0x164, 0x52F |
