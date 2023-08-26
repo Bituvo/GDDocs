@@ -10,7 +10,7 @@ Available while playing a level:
 | :--: | ----------- | ------- | ----- |
 | `FLOAT` | X-position | 0x3222D0, 0x164, 0x224, 0x67C |
 | `FLOAT` | Y-position | 0x3222D0, 0x164, 0x224, 0x680 |
-| `BYTES` | Gamemode array | 0x3222D0, 0x164, 0x224, 0x638 | Causes issues when set |
+| `BYTES` | Gamemode array | 0x3222D0, 0x164, 0x224, 0x638 | See [get gamemode.py](/scripts/get%20gamemode.py) |
 | `BOOL` | Inverted gravity | 0x3222D0, 0x164, 0x224, 0x63E |
 | `BOOL` | Dead | 0x3222D0, 0x164, 0x39C | Setting to 1 freezes the player and locks rotation at 0 degrees if in the air |
 | `FLOAT` | Speed | 0x3222D0, 0x164, 0x224, 0x648 | See [speed enumeration](/enumerations/speed.md)
