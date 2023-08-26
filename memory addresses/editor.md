@@ -2,7 +2,7 @@
 
 | Type | Description | Offsets | Notes |
 | :--: | ----------- | ------- | ----- |
-| `BOOL` | In editor | 0x3222D0, 0x168 | Will be 80 if true |
+| `BOOL` | In editor | 0x3222D0, 0x168 |
 | `INT` | Block ID | 0x3222D0, 0x168, 0x380, 0x27C |
 | `FLOAT` | Block X | 0x3222D0, 0x168, 0x380, 0x2C4, 0x34 |
 | `FLOAT` | Block Y | 0x3222D0, 0x168, 0x380, 0x2C4, 0x38 |
