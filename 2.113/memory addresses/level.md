@@ -1,10 +1,9 @@
 ## Level
 
-Available while viewing the level info:
-
 | Type | Description | Offsets | Notes |
 | :--: | ----------- | ------- | ----- |
 | `INT` | Level ID | 0x3222D0, 0x2A0 | Won't work on official levels or daily/weekly levels |
+| `BOOL` | In level | 0x3222D0, 0x164 |
 
 Available while playing:
 
