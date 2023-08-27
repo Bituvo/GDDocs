@@ -3,6 +3,7 @@
 | Type | Description | Offsets | Notes |
 | :--: | ----------- | ------- | ----- |
 | `BOOL` | In editor | 0x3222D0, 0x168 |
+| `STR` | Level name | 0x3222D0, 0x168, 0x124, 0xEC, 0x110, 0x114, 0xFC | See [get editor level name.py](/2.113/scripts/get%20editor%20level%20name.py) |
 | `INT` | Selected block ID | 0x3222D0, 0x168, 0x380, 0x27C |
 | `FLOAT` | Block X | 0x3222D0, 0x168, 0x380, 0x2C4, 0x34 |
 | `FLOAT` | Block Y | 0x3222D0, 0x168, 0x380, 0x2C4, 0x38 |
