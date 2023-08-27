@@ -163,6 +163,32 @@
           </Offsets>
         </CheatEntry>
         <CheatEntry>
+          <ID>69</ID>
+          <Description>"Block Z order"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>3BC</Offset>
+            <Offset>2C4</Offset>
+            <Offset>380</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description>"Block group amount"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>3F8</Offset>
+            <Offset>2C4</Offset>
+            <Offset>380</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
           <ID>15</ID>
           <Description>"Editor length"</Description>
           <ShowAsSigned>0</ShowAsSigned>
