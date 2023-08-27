@@ -202,6 +202,19 @@
           </Offsets>
         </CheatEntry>
         <CheatEntry>
+          <ID>75</ID>
+          <Description>"Don't fade"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>36C</Offset>
+            <Offset>2C4</Offset>
+            <Offset>380</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
           <ID>15</ID>
           <Description>"Editor length"</Description>
           <ShowAsSigned>0</ShowAsSigned>
@@ -829,6 +842,13 @@
           </Offsets>
         </CheatEntry>
       </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>74</ID>
+      <Description>"No description"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0C572C64</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
