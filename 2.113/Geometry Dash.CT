@@ -73,6 +73,45 @@
           </Offsets>
         </CheatEntry>
         <CheatEntry>
+          <ID>82</ID>
+          <Description>"Level name"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>FC</Offset>
+            <Offset>114</Offset>
+            <Offset>110</Offset>
+            <Offset>EC</Offset>
+            <Offset>124</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>83</ID>
+          <Description>"Long level name"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>FC</Offset>
+            <Offset>114</Offset>
+            <Offset>110</Offset>
+            <Offset>EC</Offset>
+            <Offset>124</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
           <ID>67</ID>
           <Description>"Selected block ID"</Description>
           <ShowAsSigned>0</ShowAsSigned>
