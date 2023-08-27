@@ -104,6 +104,18 @@
           </Offsets>
         </CheatEntry>
         <CheatEntry>
+          <ID>67</ID>
+          <Description>"Selected block ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>27C</Offset>
+            <Offset>380</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
           <ID>9</ID>
           <Description>"Block X"</Description>
           <ShowAsSigned>0</ShowAsSigned>
