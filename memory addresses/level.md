@@ -35,3 +35,5 @@ Available while playing:
 | `STR` | Time since upload | 0x3222D0, 0x164, 0x22C, 0x114, 0x174 | Usually only correct with more recent levels |
 | `STR` | Time since last update | 0x3222D0, 0x164, 0x22C, 0x114, 0x18C | Usually only correct with more recent levels |
 | `BOOL` | Paused | 0x3222D0, 0x164, 0x52F |
+| `FLOAT` | Camera X | 0x3222D0, 0x164, 0x370, 0x34 | Player X + 75 |
+| `FLOAT` | Camera Y | 0x3222D0, 0x164, 0x370, 0x38 |
