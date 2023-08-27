@@ -199,6 +199,32 @@
             <Offset>168</Offset>
           </Offsets>
         </CheatEntry>
+        <CheatEntry>
+          <ID>65</ID>
+          <Description>"Camera X"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>1D8</Offset>
+            <Offset>11C</Offset>
+            <Offset>3A4</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>66</ID>
+          <Description>"Camera Y"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>C</Offset>
+            <Offset>11C</Offset>
+            <Offset>3A4</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>

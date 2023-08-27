@@ -11,3 +11,5 @@
 | `INT` | Block L2 | 0x3222D0, 0x168, 0x380, 0x2C4, 0x410 |
 | `FLOAT` | Editor length | 0x2E67A4 | Will update instantly and not let you place blocks outside the region |
 | `INT` | Editor layer | 0x3222D0, 0x168, 0x354 | Will be -1 if all layers are selected |
+| `FLOAT` | Camera X | 0x3222D0, 0x168, 0x3A4, 0x11C, 0x1D8 |
+| `FLOAT` | Camera Y | 0x3222D0, 0x168, 0x3A4, 0x11C, 0xC |
