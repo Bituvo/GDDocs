@@ -190,6 +190,19 @@
         </CheatEntry>
         <CheatEntry>
           <ID>73</ID>
+          <Description>"Group parent"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>3F0</Offset>
+            <Offset>2C4</Offset>
+            <Offset>380</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>79</ID>
           <Description>"High detail"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Byte</VariableType>
@@ -209,6 +222,19 @@
           <Address>GeometryDash.exe + 3222D0</Address>
           <Offsets>
             <Offset>36C</Offset>
+            <Offset>2C4</Offset>
+            <Offset>380</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>77</ID>
+          <Description>"Don't enter"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>36B</Offset>
             <Offset>2C4</Offset>
             <Offset>380</Offset>
             <Offset>168</Offset>
@@ -844,11 +870,11 @@
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
-      <ID>74</ID>
-      <Description>"No description"</Description>
+      <ID>78</ID>
+      <Description>"Group parent"</Description>
       <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>4 Bytes</VariableType>
-      <Address>0C572C64</Address>
+      <VariableType>Byte</VariableType>
+      <Address>0C572CE8</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
