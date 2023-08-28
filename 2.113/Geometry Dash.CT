@@ -1005,6 +1005,19 @@
             <Offset>2E0</Offset>
           </Offsets>
         </CheatEntry>
+        <CheatEntry>
+          <ID>95</ID>
+          <Description>"Game speed"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>GeometryDash.exe + 3222E8</Address>
+          <Offsets>
+            <Offset>20</Offset>
+            <Offset>CC</Offset>
+            <Offset>38</Offset>
+            <Offset>E8</Offset>
+          </Offsets>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
