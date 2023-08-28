@@ -758,6 +758,106 @@
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
+          <ID>85</ID>
+          <Description>"Cube ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>1F0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>86</ID>
+          <Description>"Ship ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>1FC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>87</ID>
+          <Description>"Ball ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>208</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>88</ID>
+          <Description>"UFO ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>214</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>89</ID>
+          <Description>"Wave ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>220</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>90</ID>
+          <Description>"Robot ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>22C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>91</ID>
+          <Description>"Spider ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>238</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>93</ID>
+          <Description>"Trail ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>25C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>92</ID>
+          <Description>"Explosion ID"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>268</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>94</ID>
+          <Description>"Glow"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>27C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
           <ID>48</ID>
           <Description>"Wave pulse size"</Description>
           <ShowAsSigned>0</ShowAsSigned>
