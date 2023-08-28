@@ -553,6 +553,18 @@
               </Offsets>
             </CheatEntry>
             <CheatEntry>
+              <ID>105</ID>
+              <Description>"Objects"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GeometryDash.exe + 3222D0</Address>
+              <Offsets>
+                <Offset>1D8</Offset>
+                <Offset>488</Offset>
+                <Offset>164</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
               <ID>31</ID>
               <Description>"Level length"</Description>
               <ShowAsSigned>0</ShowAsSigned>
