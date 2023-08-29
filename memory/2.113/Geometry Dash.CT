@@ -1115,6 +1115,39 @@
           </Offsets>
         </CheatEntry>
         <CheatEntry>
+          <ID>109</ID>
+          <Description>"Music slider"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GeometryDash.exe"+003222A8</Address>
+          <Offsets>
+            <Offset>108</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>111</ID>
+          <Description>"Music volume"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GeometryDash.exe"+003222A8</Address>
+          <Offsets>
+            <Offset>50</Offset>
+            <Offset>EC</Offset>
+            <Offset>4C</Offset>
+            <Offset>138</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>110</ID>
+          <Description>"SFX slider"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GeometryDash.exe"+003222A8</Address>
+          <Offsets>
+            <Offset>10C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
           <ID>95</ID>
           <Description>"Game speed"</Description>
           <ShowAsSigned>0</ShowAsSigned>
@@ -1135,7 +1168,7 @@
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
-          <ID>63</ID>
+          <ID>108</ID>
           <Description>"Scene"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
