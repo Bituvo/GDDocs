@@ -9,7 +9,7 @@ Available while playing:
 
 | Type | Description | Offsets | Notes |
 | :--: | ----------- | ------- | ----- |
-| `STR` | Level name | 0x3222D0, 0x164, 0x22C, 0x114, 0xFC | See [get level name.py](/2.113/scripts/get%20level%20name.py) |
+| `STR` | Level name | 0x3222D0, 0x164, 0x22C, 0x114, 0xFC | See [get level name.py](scripts/get%20level%20name.py) |
 | `STR` | Creator | 0x3222D0, 0x164, 0x22C, 0x114, 0x144 |
 | `STR` | Level string | 0x3222D0, 0x164, 0x22C, 0x114, 0x12C, 0x0 |
 | `INT` | Level ID | 0x3222D0, 0x164, 0x22C, 0x114, 0xF8 |
@@ -26,11 +26,11 @@ Available while playing:
 | `INT` | Stars | 0x3222D0, 0x164, 0x22C, 0x114, 0x2AC | Level is rated if this is greater than zero |
 | `INT` | Featured score | 0x3222D0, 0x164, 0x22C, 0x114, 0x27C | Level is featured if this is greater than zero |
 | `BOOL` | Epic | 0x3222D0, 0x164, 0x22C, 0x114, 0x280 |
-| `BOOL` | Demon | 0x3222D0, 0x164, 0x22C, 0x114, 0x29C | See [get level difficulty.py](/2.113/scripts/get%20level%20difficulty.py) |
-| `BOOL` | Auto | 0x3222D0, 0x164, 0x22C, 0x114, 0x2B0 | See [get level difficulty.py](/2.113/scripts/get%20level%20difficulty.py) |
-| `INT` | Difficulty | 0x3222D0, 0x164, 0x22C, 0x114, 0x1E4 | See [get level difficulty.py](/2.113/scripts/get%20level%20difficulty.py) |
-| `INT` | Demon difficulty | 0x3222D0, 0x164, 0x22C, 0x114, 0x2A0 | See [get level difficulty.py](/2.113/scripts/get%20level%20difficulty.py) |
-| `INT` | Level type | 0x3222D0, 0x164, 0x22C, 0x114, 0x364 | See [level type enumeration](/2.113/enumerations/level%20type.md) |
+| `BOOL` | Demon | 0x3222D0, 0x164, 0x22C, 0x114, 0x29C | See [get level difficulty.py](scripts/get%20level%20difficulty.py) |
+| `BOOL` | Auto | 0x3222D0, 0x164, 0x22C, 0x114, 0x2B0 | See [get level difficulty.py](scripts/get%20level%20difficulty.py) |
+| `INT` | Difficulty | 0x3222D0, 0x164, 0x22C, 0x114, 0x1E4 | See [get level difficulty.py](scripts/get%20level%20difficulty.py) |
+| `INT` | Demon difficulty | 0x3222D0, 0x164, 0x22C, 0x114, 0x2A0 | See [get level difficulty.py](scripts/get%20level%20difficulty.py) |
+| `INT` | Level type | 0x3222D0, 0x164, 0x22C, 0x114, 0x364 | See [level type enumeration](/enumerations/level%20type.md) |
 | `INT` | Song ID | 0x3222D0, 0x164, 0x488, 0x1C4 | Doesn't work with official songs |
 | `STR` | Time since upload | 0x3222D0, 0x164, 0x22C, 0x114, 0x174 | Usually only correct with more recent levels |
 | `STR` | Time since last update | 0x3222D0, 0x164, 0x22C, 0x114, 0x18C | Usually only correct with more recent levels |
