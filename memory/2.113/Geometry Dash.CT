@@ -761,6 +761,21 @@
               </Offsets>
             </CheatEntry>
             <CheatEntry>
+              <ID>133</ID>
+              <Description>"Top ground shown"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"GeometryDash.exe"+003222D0</Address>
+              <Offsets>
+                <Offset>D8</Offset>
+                <Offset>14</Offset>
+                <Offset>8</Offset>
+                <Offset>20</Offset>
+                <Offset>B0</Offset>
+                <Offset>164</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
               <ID>117</ID>
               <Description>"BG color 1"</Description>
               <ShowAsHex>1</ShowAsHex>
