@@ -12,6 +12,8 @@
 | `INT` | Trail ID | 0x3222D0, 0x25C |
 | `INT` | Explosion ID | 0x3222D0, 0x268 |
 | `BOOL` | Glow | 0x3222D0, 0x27C |
+| `INT` | Color 1 | 0x3222D0, 0x244 | See [player color enumeration](/enumerations/player%20color.md) |
+| `INT` | Color 2 | 0x3222D0, 0x250 | See [player color enumeration](/enumerations/player%20color.md) |
 | `FLOAT` | Wave pulse size | 0x2E63A0 |
 
 Available while playing a level:
