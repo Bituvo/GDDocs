@@ -1266,6 +1266,13 @@
             <Offset>1DC</Offset>
           </Offsets>
         </CheatEntry>
+        <CheatEntry>
+          <ID>130</ID>
+          <Description>"Menu loop address"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 20D9E2</Address>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
   </CheatEntries>
