@@ -27,6 +27,8 @@ Available while playing a level:
 | `BOOL` | Inverted gravity | 0x3222D0, 0x164, 0x224, 0x63E |
 | `BOOL` | Dead | 0x3222D0, 0x164, 0x39C | Setting to 1 freezes the player and locks rotation at 0 degrees if in the air |
 | `FLOAT` | Speed | 0x3222D0, 0x164, 0x224, 0x648 | See [speed enumeration](/enumerations/speed.md)
+| `FLOAT` | X size | 0x3222D0, 0x164, 0x224, 0x5AC, 0x74 | Multiplier |
+| `FLOAT` | Y size | 0x3222D0, 0x164, 0x224, 0x5AC, 0x80 | Multiplier |
 | `FLOAT` | Height | 0x3222D0, 0x164, 0x224, 0x644 | Anything other than 1 enables mini mode. Also changes size of death explosion |
 | `BOOL` | Practice mode | 0x3222D0, 0x164, 0x495 | Can be set to change modes but won't toggle button overlay |
 | `BOOL` | Dashing | 0x3222D0, 0x164, 0x224, 0x641 |
