@@ -995,6 +995,18 @@
               </Offsets>
             </CheatEntry>
             <CheatEntry>
+              <ID>129</ID>
+              <Description>"Rotation"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>GeometryDash.exe + 3222D0</Address>
+              <Offsets>
+                <Offset>20</Offset>
+                <Offset>224</Offset>
+                <Offset>164</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
               <ID>51</ID>
               <Description>"Gamemode array"</Description>
               <ShowAsSigned>0</ShowAsSigned>
