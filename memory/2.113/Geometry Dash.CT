@@ -927,6 +927,26 @@
           </Offsets>
         </CheatEntry>
         <CheatEntry>
+          <ID>123</ID>
+          <Description>"Color 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>244</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>124</ID>
+          <Description>"Color 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GeometryDash.exe + 3222D0</Address>
+          <Offsets>
+            <Offset>250</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
           <ID>48</ID>
           <Description>"Wave pulse size"</Description>
           <ShowAsSigned>0</ShowAsSigned>
