@@ -31,6 +31,7 @@ Available while playing a level:
 | `FLOAT` | Height | 0x3222D0, 0x164, 0x224, 0x644 | Anything other than 1 enables mini mode. Also changes size of death explosion |
 | `BOOL` | Practice mode | 0x3222D0, 0x164, 0x495 | Can be set to change modes but won't toggle button overlay |
 | `BOOL` | Dashing | 0x3222D0, 0x164, 0x224, 0x641 |
+| `BOOL` | On slope | 0x3222D0, 0x164, 0x224, 0x630 |
 | `BOOL` | Button pressed | 0x3222D0, 0x164, 0x224, 0x611 |
 | `FLOAT` | Last portal X | 0x3222D0, 0x164, 0x224, 0x654 |
 | `FLOAT` | Last portal Y | 0x3222D0, 0x164, 0x224, 0x658 |
