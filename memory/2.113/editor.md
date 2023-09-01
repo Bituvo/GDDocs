@@ -20,5 +20,6 @@
 | `BOOL` | High detail | 0x3222D0, 0x168, 0x380, 0x2C4, 0x448 |
 | `FLOAT` | Editor length | 0x2E67A4 | Will update instantly and not let you place blocks outside the region |
 | `INT` | Editor layer | 0x3222D0, 0x168, 0x354 | Will be -1 if all layers are selected |
+| `FLOAT` | Playtest song offset | 0x3222D0, 0x168, 0xCC, 0x28, 0x8, 0x128 | Will be -1 if the song is not playing |
 | `FLOAT` | Camera X | 0x3222D0, 0x168, 0x3A4, 0x11C, 0x1D8 |
 | `FLOAT` | Camera Y | 0x3222D0, 0x168, 0x3A4, 0x11C, 0xC |

@@ -311,6 +311,20 @@
           </Offsets>
         </CheatEntry>
         <CheatEntry>
+          <ID>137</ID>
+          <Description>"Playtest song offset"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"GeometryDash.exe"+003222D0</Address>
+          <Offsets>
+            <Offset>128</Offset>
+            <Offset>8</Offset>
+            <Offset>28</Offset>
+            <Offset>CC</Offset>
+            <Offset>168</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
           <ID>65</ID>
           <Description>"Camera X"</Description>
           <ShowAsSigned>0</ShowAsSigned>
@@ -1301,13 +1315,6 @@
           <Address>GeometryDash.exe + 20D9E2</Address>
         </CheatEntry>
       </CheatEntries>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>134</ID>
-      <Description>"No description"</Description>
-      <ShowAsSigned>0</ShowAsSigned>
-      <VariableType>Byte</VariableType>
-      <Address>0C88F0E0</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
